@@ -1,0 +1,17 @@
+CipherCore.v
+Controller.v
+Datapath.v
+SB.v
+SliSCP_step.v
+d_ff.v
+design_pkg.vhd
+CAESAR_LWAPI_pkg.vhd
+GeneralComponents_pkg.vhd
+PreProcessor.vhd
+PostProcessor.vhd
+fwft_fifo.vhd
+Reg.vhd
+RegLd.vhd
+RegN.vhd
+StepDownCountLd.vhd
+AEAD.vhd
